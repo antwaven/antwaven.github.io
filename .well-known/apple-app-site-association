@@ -1,0 +1,14 @@
+{
+    "webcredentials": {
+        "apps": ["85LL29U6Y4.org.careeria.mobile"]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "85LL29U6Y4.org.careeria.mobile",
+                "paths": ["/careeria-app"]
+            }
+        ]
+    }
+}

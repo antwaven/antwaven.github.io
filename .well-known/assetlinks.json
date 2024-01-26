@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "org.careeria.mobile",
+            "sha256_cert_fingerprints": [
+                "33:17:89:C7:9F:02:1B:C4:1C:71:13:77:DF:23:B6:9F:62:E0:65:B9:A6:C1:65:41:C3:BC:F0:C0:B6:39:A6:AE"
+            ]
+        }
+    }
+]
